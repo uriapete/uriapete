@@ -1,4 +1,29 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm a software engineer focused on adaptability, versatility, and functionality. Also great at working in or coordinating a team, but I like working alone too.
+
+### Wanna get in contact?
+- uriarteangelo@gmail.com
+- https://www.linkedin.com/in/peterangelouriarte/
+
+### Languages:
+- C++
+- C#
+- Python
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+#### Currently learning:
+- Rust
+
+### Frameworks and other tools:
+- Node.js
+- TS-Node
+- Express
+- React
+- MongoDB
+- Mongoose
 
 <!--
 **uriapete/uriapete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
