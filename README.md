@@ -3,8 +3,8 @@
 I'm a software engineer focused on adaptability, versatility, and functionality. Also great at working in or coordinating a team, but I like working alone too.
 
 ### Wanna get in contact?
-- uriarteangelo@gmail.com
-- https://www.linkedin.com/in/peterangelouriarte/
+- [My Email: uriarteangelo@gmail.com](uriarteangelo@gmail.com)
+- [My LinkedIn](https://www.linkedin.com/in/peterangelouriarte/)
 
 ### Languages:
 - C++
@@ -16,6 +16,7 @@ I'm a software engineer focused on adaptability, versatility, and functionality.
 - CSS
 #### Currently learning:
 - Rust
+- Java
 
 ### Frameworks and other tools:
 - Node.js
