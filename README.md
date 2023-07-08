@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software engineer focused on adaptability, versatility, and functionality. Also great at working in or coordinating a team, but I like working alone too.
+I'm a software developer focused on adaptability, versatility, and functionality. Great at working in or coordinating a team, but I like working alone too.
 
 ### Wanna get in contact?
 - My Email: uriarteangelo@gmail.com
