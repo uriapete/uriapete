@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm a software developer focused on adaptability, versatility, and functionality. Great at working in or coordinating a team, but I like working alone too.
+When I'm really into something, I learn it quickly.
 
 ### Wanna get in contact?
 - My Email: uriarteangelo@gmail.com
@@ -14,17 +15,23 @@ I'm a software developer focused on adaptability, versatility, and functionality
 - JavaScript
 - HTML
 - CSS
+
 #### Currently learning:
 - Rust
 - Java
 
 ### Frameworks and other tools:
+- React
+- Next.js
 - Node.js
 - TS-Node
-- Express
-- React
+- PostgreSQL
+- Django
+- Django REST Framework
 - MongoDB
 - Mongoose
+- Express
+- Godot Engine
 
 <!--
 **uriapete/uriapete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
