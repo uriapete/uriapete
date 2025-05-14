@@ -5,7 +5,6 @@ When I'm really into something, I learn it quickly.
 
 ### Wanna get in contact?
 - My Email: uriarteangelo@gmail.com
-- [My LinkedIn](https://www.linkedin.com/in/peterangelouriarte/)
 
 ### Languages:
 - C++
